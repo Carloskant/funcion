@@ -23,4 +23,4 @@ b= -5
 c= 6
 
 soluciones = resolver_ecuacion_cuadratica(a, b, c)
-print ("RESPUESTA las solucines son:{soluciones}")
+print ("las respuestas son:{soluciones}")
